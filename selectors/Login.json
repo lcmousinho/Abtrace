@@ -1,0 +1,5 @@
+{
+    "username_input": "input[placeholder='Enter your Username']",
+    "password_input": "input[placeholder='Enter your Password']",
+    "login_button": "//*[@id='signIn-panel']/div/form/div/button"
+}

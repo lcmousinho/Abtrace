@@ -1,0 +1,8 @@
+{
+    "title_field": "#title",
+    "details_field": "#details",
+    "sign_out_butoon": ".sign-out",
+    "add_button": "//*[@id='root']/div/section[1]/form/button",
+    "todo_element_title": ".todo-title",
+    "todo_element_details": ".todo-details"
+}
